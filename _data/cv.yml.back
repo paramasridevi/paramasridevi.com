@@ -3,8 +3,10 @@
   contents:
     - name: Full Name
       value: Parama Sridevi
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: English, Bengali
+      value: English, German
 
 - title: Education
   type: time_table

@@ -90,6 +90,7 @@
   "publications": [
     {
       "state": "Published",
+      "icon": "fa-solid fa-book",
       "publicationList": [
         {
           "name": "A Comprehensive Study for Predicting Chronic Kidney Disease, Diabetes, Hypertension, and Anemia by Machine Learning and Feature Engineering Techniques",
@@ -192,6 +193,7 @@
     },
     {
       "state": "Accepted",
+      "icon": "fa-solid fa-check",
       "publicationList": [
         {
           "name": "ML-based Chronic Kidney Disease and Diabetes Prediction With Feature Effect Analysis Using SHAP",
@@ -237,6 +239,7 @@
     },
     {
       "state": "Under Review",
+      "icon": "fa-solid fa-pencil",
       "publicationList": [
         {
           "name": "Quantum Machine Learning based Non-invasive Estimation of Blood Glucose and HbA1c from Ten-second Fingertip Video",
@@ -283,14 +286,25 @@
   ],
   "skills": [
     {
-      "name": "Machine Learning",
-      "level": "Master",
+      "name": "Language and Frameworks",
       "icon": "fa-solid fa-hashtag",
       "items": [
         "Strong knowledge of MySQL, Oracle, Python, Scikit learn, Pandas, NumPy",
-        "Strong working experience in data pre-procesing, data cleaning and machine learning algorithms such as XG- Boost, Kernelized KNN, Random Forest Classification etc.",
-        "Working experience in statistical analysis with ANOVA, Post hoc analysis, T-test",
         "Hands on knowledge on TensorFlow, Keras, R, Django"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-hashtag",
+      "items": [
+        "Data pre-procesing, data cleaning and machine learning algorithms such as XG- Boost, Kernelized KNN, Random Forest Classification"
+      ]
+    },
+    {
+      "name": "Statistical",
+      "icon": "fa-solid fa-hashtag",
+      "items": [
+        "ANOVA, Post hoc analysis, T-test"
       ]
     }
   ],

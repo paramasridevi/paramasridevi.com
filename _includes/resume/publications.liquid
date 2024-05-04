@@ -1,9 +1,22 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% for publicationContent in data[1] %}
     {% assign publications = publicationContent.publicationList | sort: 'releaseDate' | reverse  %}
-    <h6 class="title font-weight-bold ml-1 ml-md-7">
-      {{ publicationContent.state }}
-    </h6>
+     <div class="list-group col-md-6">
+      <table class="table-cv list-group-table">
+        <tbody>
+          <tr>
+            {% if publicationContent.icon %}
+              <td class="list-group-category-icon">
+                <i class="{{ publicationContent.icon }}"></i>
+              </td>
+            {% else %}
+              <td class="list-group-category-icon"></td>
+            {% endif %}
+            <td colspan=2 class="list-group-category">{{ publicationContent.state }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
     
     {% for content in publications %}
       <li class="list-group-item">

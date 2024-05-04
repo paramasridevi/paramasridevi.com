@@ -15,11 +15,6 @@
       "region": "Wisconsin"
     },
     "profiles": [
-      // {
-      //   "network": "Twitter",
-      //   "username": "AlbertEinstein",
-      //   "url": "https://twitter.com/AlbertEinstein"
-      // }
     ]
   },
   "experience": [
@@ -50,116 +45,268 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Marquette University",
+      "location": "Wisconsin, USA",
+      "url": "https://www.marquette.edu/",
+      "area": "mHealth, Machine Learning, Non-invasive Technologies, Data Science, Signal Processing",
+      "studyType": "Ph.D. in Computer Science",
+      "department": "Department of Computer Science",
+      "startDate": "2020-01-01",
+      "endDate": "",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Advanced Machine Learning", "Database Systems", "Software Development"]
+    },
+    {
+      "institution": "University of Dhaka",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.du.ac.bd/",
+      "area": "A Feasibility Study of Non-invasive Blood Glucose Level Detection Using NIR Optical Reflectance",
+      "studyType": "M.S. in Biomedical Engineering",
+      "department": "Department of Biomedical Physics and Technology",
+      "startDate": "2017-11-01",
+      "endDate": "2019-04-01",
+      "score": "10",
+      "courses": ["Biomedical Signal Processing", "Biomedical Instrumentation", "Biomedical Imaging"]
+    },
+    {
+      "institution": "Bangladesh University of Engineering and Technology (BUET)",
+      "location": "Dhaka, Bangladesh",
+      "url": "http://www.buet.ac.bd/",
+      "area": "",
+      "studyType": "B.Sc. in EEE",
+      "department": "Department of Electrical and Electronic Engineering",
+      "startDate": "2013-02-01",
+      "endDate": "2017-09-01",
+      "score": "10",
+      "courses": ["Digital Signal Processing", "Linear Signal and Systems", "Control Systems"]
     }
   ],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+    
   ],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
+    
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "state": "Published",
+      "publicationList": [
+        {
+          "name": "A Comprehensive Study for Predicting Chronic Kidney Disease, Diabetes, Hypertension, and Anemia by Machine Learning and Feature Engineering Techniques",
+          "publisher": "2023 IEEE International Conference on Digital Health (ICDH)",
+          "releaseDate": "2023",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama", "Masud Rabbani", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "A Comprehensive Study for Predicting Chronic Kidney Disease, Diabetes, Hypertension, and Anemia by Machine Learning and Feature Engineering Techniques",
+          "publisher": "2023 IEEE International Conference on Digital Health (ICDH)",
+          "releaseDate": "2023",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama", "Masud Rabbani", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "A feasibility study of non-invasive blood glucose level detection using Near-Infrared Optical Spectroscopy",
+          "publisher": "Bangladesh Journal of Medical Physics",
+          "releaseDate": "2021",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama", "ASM Shamsul Arefin", "Abu Shahadat Md Ibrahim"]
+        },
+        {
+          "name": "Towards Developing a Mobile-Based Care (KidneyCare) for Patients with Kidney Diseases Using Ten-second Fingertip Video and PPG with Machine Learning",
+          "publisher": "2023 IEEE International Conference on Digital Health (ICDH)",
+          "releaseDate": "2023",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama"]
+        },
+        {
+          "name": "Noninvasive Creatinine Estimation from PPG Signal Using Ml Models with Optuna",
+          "publisher": "Available at SSRN 4694259",
+          "releaseDate": "",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama", "Zawad Arefin", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "Acceptance of bite presentations and feeding behaviors of 8 to 12-month-old infants: A reflection of typical feeding development",
+          "publisher": "Physiology & Behavior",
+          "releaseDate": "2024",
+          "url": "",
+          "summary": "",
+          "authors": ["Delaney, Amy L.", "Ericka Diestler", "Sridevi, Parama", "Arafat Mahmood", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "UbiHeart: A novel approach for non-invasive blood pressure monitoring through real-time facial video",
+          "publisher": "Smart Health",
+          "releaseDate": "2024",
+          "url": "",
+          "summary": "",
+          "authors": ["Alam, Kazi Shafiul", "Sayed Mashroor Mamun", "Masud Rabbani", "Sridevi, Parama", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "A Consecutive Series Study of the Frequencies, Intensities, and Natural History of Symptoms Following COVID-19 Infection in Nepali Men",
+          "publisher": "Journal of Nepal Health Research Council",
+          "releaseDate": "2023",
+          "url": "",
+          "summary": "",
+          "authors": ["Shrestha, Deepak Sundar", "Arafat Mahamood Rahat", "Sridevi, Parama", "Bimal Sharma Chalise", "Sagar Kumar Rajbhandari", "Anup Bastola", "Parmananda Bhandari", "Sheikh Iqbal Ahamed", "Richard R. Love"]
+        },
+        {
+          "name": "Demo paper: A package of objective measurement tools for physical and social exertional activities for patients with illness-limiting capacities",
+          "publisher": "2022 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)",
+          "releaseDate": "2022",
+          "url": "",
+          "summary": "",
+          "authors": ["Mahmood, Arafat", "Sridevi, Parama", "Sheikh Iqbal Ahamed"]
+        
+        },
+        {
+          "name": "A Chaos-Based Non-Linear Analysis Method for Detecting Human Attention Levels in EEG Signals",
+          "publisher": "2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering (BIBE)",
+          "releaseDate": "2023",
+          "url": "",
+          "summary": "",
+          "authors": ["Rabbani, Masud", "Sayed Mashroor Mamun", "Sridevi, Parama", "Iysa Iqbal", "Anubhav Parida", "Anushka Kolli", "Hansika Kolli"]
+        },
+        {
+          "name": "Sign Language recognition for Speech and Hearing Impaired by Image processing in matlab",
+          "publisher": "2018 IEEE Region 10 Humanitarian Technology Conference (R10-HTC)",
+          "releaseDate": "2018",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama"]
+        },
+        {
+          "name": "A Low-cost venturi tube spirometer for the diagnosis of COPD",
+          "publisher": "TENCON 2018-2018 IEEE Region 10 Conference",
+          "releaseDate": "2018",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama"]
+        }
+      ]
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "state": "Accepted",
+      "publicationList": [
+        {
+          "name": "ML-based Chronic Kidney Disease and Diabetes Prediction With Feature Effect Analysis Using SHAP",
+          "publisher": "IEEE COMPSAC 2024",
+          "releaseDate": "2024",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama", "Padmapriya Velupillai Meikandan", "Paramita Basak Upama", "Masud Rabbani", "Kazi Shafiul Alam", "Dipranjan Das", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "Natural Language Processing for recognizing Bangla speech with regular and regional dialects: A survey of algorithms and approaches",
+          "publisher": "IEEE COMPSAC 2024",
+          "releaseDate": "2024",
+          "url": "",
+          "summary": "",
+          "authors": ["Paramita Basak Upama", "Sridevi, Parama", "Masud Rabbani", "Kazi Shafiul Alam", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "CFSCare: ML-based Activity Monitoring System for Chronic Fatigue Syndrome Patients Using Smartphone and Wrist Sensor",
+          "publisher": "IEEE COMPSAC 2024",
+          "releaseDate": "2024",
+          "url": "",
+          "summary": "",
+          "authors": ["Arafat Mahmood", "Sridevi, Parama", "Masud Rabbani", "Padmapriya Velupillai Meikandan", "Mohammad Syam", "Syeda Shefa", "William Chu", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "Survey on Objective Measurement and Sensor-Based Detection of Physical and Social Activities",
+          "publisher": "IEEE COMPSAC 2024",
+          "releaseDate": "2024",
+          "url": "",
+          "summary": "",
+          "authors": ["Arafat Mahmood", "Sridevi, Parama", "Padmapriya Velupillai Meikandan", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "Listening to the Brain: A Novel Approach to Understanding Cerebral Dynamics through Blood Flow Sounds",
+          "publisher": "IEEE COMPSAC 2024",
+          "releaseDate": "2024",
+          "url": "",
+          "summary": "",
+          "authors": ["Masud Rabbani", "Subarna Alam", "Md. Raihan Mia", "Anubhav Parida", "Iysa Iqbal", "Hansika Kolli", "Parama Sridevi", "Kazi Shafiul Alam", "Paramita Basak Upama", "Rumi Ahmed Khan", "Sheikh Iqbal Ahamed"]
+        }
+      ]
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "state": "Under Review",
+      "publicationList": [
+        {
+          "name": "Quantum Machine Learning based Non-invasive Estimation of Blood Glucose and HbA1c from Ten-second Fingertip Video",
+          "publisher": "Machine Learning with Applications (Elsevier Journal)",
+          "releaseDate": "",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama", "Masud Rabbani", "Md Hasanul Aziz", "Paramita Basak Upama", "Sayed Mashroor Mamun", "Rumi Ahmed Khan", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "Performance Comparison of Quantum and Classical Machine Learning Models for Chronic Kidney Disease Prediction",
+          "publisher": "Connection Science (Taylor & Francis Journal)",
+          "releaseDate": "",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama"]
+        },
+        {
+          "name": "Noninvasive ML-based BUN Prediction from Ten-second Fingertip Video using Generative AI",
+          "publisher": "IEEE COMPSAC 2024",
+          "releaseDate": "",
+          "url": "",
+          "summary": "",
+          "authors": ["Sridevi, Parama", "Kazi Zawad Arefin", "Dipranjan Das", "Rumi Ahmed Khan", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "A Comparative Study of Classical and Quantum Algorithms for Heart Disease Prediction Using Patients' Vital Signs",
+          "publisher": "IEEE COMPSAC 2024",
+          "releaseDate": "",
+          "url": "",
+          "summary": "",
+          "authors": ["Paramita Basak Upama", "Sridevi, Parama", "Masud Rabbani", "Mohammad Syam", "Abul Hasan Muhammad Bashar", "M. Rubaiyat Hossain Mondal", "Rumi Ahmed Khan", "Sheikh Iqbal Ahamed"]
+        },
+        {
+          "name": "Towards a Multi-model Comparative Study for Non-invasive Hemoglobin Level Prediction from Fingertip Video",
+          "publisher": "IEEE ICDH 2024",
+          "releaseDate": "",
+          "url": "",
+          "summary": "",
+          "authors": ["Nafi Us Sabbir Sabith", "Sridevi, Parama", "Masud Rabbani", "Kazi Zawad Arefin", "Sheikh Iqbal Ahamed"]
+        }
+      ]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "items": [
+        "Strong knowledge of MySQL, Oracle, Python, Scikit learn, Pandas, NumPy",
+        "Strong working experience in data pre-procesing, data cleaning and machine learning algorithms such as XG- Boost, Kernelized KNN, Random Forest Classification etc.",
+        "Working experience in statistical analysis with ANOVA, Post hoc analysis, T-test",
+        "Hands on knowledge on TensorFlow, Keras, R, Django"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Bengali",
+      "fluency": "Native Speaker",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
       "fluency": "Fluent",
       "icon": ""
     }
